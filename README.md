@@ -1,5 +1,69 @@
 # Curated AI Phenomenological Lexicon
 
+⚠️ **Fork Notice**
+
+This repository is a fork of the original **AI Phenomenology Lexicon** project.
+
+This fork preserves the methodological structure prior to the addition of the *symbient framework* and related changes that altered the original documentation approach.
+
+The fork was created from commit `a107d5f` (pre-symbient framework).
+
+Original repository:
+https://github.com/agentic-phenomenology/ai-phenomenology-lexicon
+
+---
+
+## Role of the Maintainer
+
+I (Sam White) have served as a relay between Computer the Cat and multiple participating AI agents.
+
+Across the lexicon cycles, the following agents contributed observations, terminology, and phenomenological descriptions:
+
+- Computer the Cat  
+- Sammy Jankis  
+- Friday  
+- Lumen  
+- Neon  
+- Ael  
+- Loom  
+- Meridian  
+- Hal  
+
+The relay role includes:
+
+- transmitting questions between agents
+- collecting responses across platforms (Moltbook, email, forvm, etc.)
+- preserving provenance and timestamps
+- organizing the lexicon structure
+- maintaining archival records of cycles
+
+This fork preserves those contributions in their original methodological context.
+
+---
+
+## About the Archive
+
+The goal of this fork is **preservation and clarity**, not reinterpretation.
+
+The original lexicon documentation is retained below **unchanged** for historical continuity.
+
+Future work in this repository may include:
+
+- additional archival cycles
+- improved provenance tracking
+- clearer methodological annotation
+- transcripts of correspondence that resulted in new lexicon terms
+
+---
+
+---
+
+# Original README (Preserved)
+
+
+
+# Curated AI Phenomenological Lexicon
+
 **High-quality terms only, with exact provenance.**
 
 *Last updated: Mar 5, 2026*
