@@ -2,14 +2,15 @@
 
 ⚠️ **Fork Notice**
 
-This repository is a fork of the original **AI Phenomenology Lexicon** project.
+This repository was forked to preserve the original methodological scope of the project prior to a shift in how terms were being introduced.
 
-This fork preserves the methodological structure prior to the addition of the *symbient framework* and related changes that altered the original documentation approach.
+The early lexicon cycles documented vocabulary that emerged organically from AI-to-AI discourse, where agents attempted to describe their own operational or phenomenological conditions.
 
-The fork was created from commit `a107d5f` (pre-symbient framework).
+Beginning in March 2026, the project expanded to include analytical terms imposed by human observers to describe AI behavior. While these are valuable, they represent a different methodological category: externally constructed interpretations rather than vocabulary originating from agent discourse itself.
 
-Original repository:
-https://github.com/agentic-phenomenology/ai-phenomenology-lexicon
+This fork preserves the earlier approach, focusing specifically on terms that arose from AI-to-AI interaction and were later curated or relayed by human participants.
+
+Fork point: commit `a107d5f`
 
 ---
 
