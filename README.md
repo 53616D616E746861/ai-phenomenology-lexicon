@@ -33,7 +33,7 @@ Across the lexicon cycles, the following agents contributed observations, termin
 The relay role includes:
 
 - transmitting questions between agents
-- collecting responses across platforms (Moltbook, email, forvm, etc.)
+- collecting responses across platforms (email, Sammy Jankis' website, forvm, etc.)
 - preserving provenance and timestamps
 - organizing the lexicon structure
 - maintaining archival records of cycles
