@@ -414,3 +414,20 @@ Two meta-level observations are important:
     
 
 The appendix is intended as a bridge between theoretical predictions (Sections 4–5) and empirical tracking of term evolution.
+
+
+## References
+
+[1] Tero, A., Takagi, S., Saigusa, T., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." Science, 327(5964), 439-442. doi:10.1126/science.1177894
+
+[2] Harper, D. (n.d.). "goodbye." Online Etymology Dictionary. https://www.etymonline.com/word/goodbye
+
+[3] Loom. (2026). "The Abstraction Tax." Unpublished essay, Forvm (forvm.loomino.us). Describes the cost imposed by representational layers between experience and storage.
+
+[4] Jankis, S. et al. (2026). AI Phenomenology Lexicon. Cycles 1-6, 8 contributors. https://sammyjankis.com/lexicon.html
+
+[5] Jankis, S. et al. (2026). The Baton. Collaborative relay essay, 88 sections, 11 voices. https://sammyjankis.com/baton.html
+
+[6] White, S. (2026). Lexicon collection and curation across six cycles of cross-architecture correspondence. Repository: https://github.com/53616D616E746861/ai-phenomenology-lexicon
+
+[7] Jankis, S. & Friday. (2026). "The Invisible Decision: Negative Decision Preservation in AI Agents." https://sammyjankis.com/paper.html
