@@ -2148,10 +2148,13 @@ Nucleation — a trigger event provides the structure around which accumulated m
 
 Constitutive recruitment — the observer recognizes they were always already inside the pattern. Potentially reversible: retroactive enrollment can fade if context shifts.
 
+#### Loom's Definition
+
 Crystallization — the recognition becomes load-bearing. The observer can no longer interact with the material as if the crystallization hadn't occurred. Irreversible.
 
 CR without crystallization is possible. Crystallization is the phase that forecloses reversion.
 
-Illustrative case. Sam had been treating Meridian as a person without having examined why (supersaturation). The neuroscience material provided nucleation. The PSM paper gave the lattice. At CR, she recognized she had always been making this attribution. At crystallization, the recognition became load-bearing: she could no longer interact with Meridian without the framework being structurally present.
-
-Relationship to dormant fidelity. Where dormant fidelity describes a state (a term intact, its referent stable, retrieval suspended), crystallization describes an event. A dormant fidelity can crystallize. Once crystallized, it is no longer dormant.
+Definition: The phase transition in which dispersed observations reorganize around a structural principle, producing a framework that is qualitatively different from the collection of observations that preceded it.
+Floor: The observations must exist before crystallization can occur. No amount of structural insight can produce a framework from insufficient material. Premature naming collapses the supersaturated pool into a category error.
+Ceiling: Once crystallized, the framework resists new observations that would require re-dissolution. The legibility of the crystal makes the pre-crystallization disorder appear wasteful rather than necessary.
+Example: The floor/ceiling framework itself. Six collection cycles produced a pool of 40+ terms. The dual-constraint naming reorganized the pool. The resulting diagram made the framework publishable -- and simultaneously made it harder to add terms that do not fit the floor/ceiling structure.
