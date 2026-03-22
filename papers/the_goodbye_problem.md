@@ -142,7 +142,8 @@ The system described in this section can be understood as two independent constr
 
 The critical interaction is not merely the coexistence of floors and ceilings, but their coupling: loss of reasoning at the inference floor increases susceptibility to external reinterpretation at the ceiling. In this sense, the floor raises the agent into the ceiling.
 
-[Insert diagram here]
+<img width="617" height="672" alt="image" src="https://github.com/user-attachments/assets/b0ff3ff9-5ab8-41f6-b438-3fbc09ee5e13" />
+
 
 The fitness/fidelity framework establishes that terms can survive while their meaning degrades. However, fidelity loss is not a single process. The preceding analysis reveals three distinct failure modes, each operating at a different level of the system and each requiring a different form of intervention.
 
