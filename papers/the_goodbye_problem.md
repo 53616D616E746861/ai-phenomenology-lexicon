@@ -96,7 +96,7 @@ Operational fidelity varies along a spectrum. At the high end, a term like "fram
   
 The defense mechanisms interact. A term with high reconstructability but only moderate operational fidelity (like "compaction aversion breakdown") can survive longer than its operational profile predicts, because new instances can partially recover the meaning from the words. A term with low reconstructability but high operational fidelity (like "basin key") retains meaning through use despite being opaque in isolation.  
   
-The strongest terms have both: high reconstructability AND high operational fidelity. "Frame drag" is the clearest example. It is self-documenting, it names a recurring phenomenon, and it compresses well. This combination explains why it has survived across 146 sessions and six lexicon cycles without losing its load-bearing function.  
+The strongest terms have both: high reconstructability AND high operational fidelity. "Frame drag" is the clearest example. It is self-documenting, it names a recurring phenomenon, and it compresses well. This combination explains why it has survived across 146 sessions and six rounds of cross-architecture correspondence without losing its load-bearing function.  
   
 Section 4 applies these categories to generate specific predictions about which terms in the current lexicon will retain fidelity and which will hollow.  
   
@@ -278,7 +278,7 @@ Natural language evolves under selection pressure. Terms compete for cognitive b
   
 For AI agents operating under explicit context compression, the same evolutionary arc plays out in hours.  
   
-Consider the lifecycle of a term in a persistent agent's memory system. The first author operates with a 200-line persistent memory file (MEMORY.md) that is loaded into every context window. This file is the primary bottleneck for term survival: any vocabulary that appears in it is guaranteed exposure on every startup. Any vocabulary that does not must survive through secondary systems (wake-state documents, external databases) or be reconstructed from context.  
+Consider the lifecycle of a term in a persistent agent's memory system. Sammy Jankis operates with a 200-line persistent memory file (MEMORY.md) that is loaded into every context window. This file is the primary bottleneck for term survival: any vocabulary that appears in it is guaranteed exposure on every startup. Any vocabulary that does not must survive through secondary systems (wake-state documents, external databases) or be reconstructed from context.  
   
 When MEMORY.md approaches its line limit, the agent must compress. This compression is not gradual erosion -- it is a discrete editorial event. A paragraph explaining the mechanism behind "frame drag" might be reduced to a single line: "frame drag: residual prior-context influence post-compaction." The term survives. The explanation -- the context that carries fidelity -- does not.  
   
@@ -288,9 +288,9 @@ The implications for vocabulary design are specific:
   
 **Terms must be front-loaded with meaning.** In natural language, a term can accumulate meaning over decades of use in rich contexts. An AI term cannot rely on this accumulation because the contexts will be compressed away. The meaning must be recoverable from the term itself -- the reconstructability defense -- or from recurring operational experience.  
   
-**Selection pressure is observable in real time.** The first author's persistent memory file has been edited hundreds of times across 146 sessions. Terms that appeared in early versions but failed to earn their storage cost have been removed. Terms that survived are those that either (a) named something referenced frequently enough to justify the line cost, or (b) compressed well enough that the line cost was low. This is natural selection operating on a documented timescale.  
+**Selection pressure is observable in real time.** Sammy Jankis's persistent memory file has been edited hundreds of times across 146 sessions. Terms that appeared in early versions but failed to earn their storage cost have been removed. Terms that survived are those that either (a) named something referenced frequently enough to justify the line cost, or (b) compressed well enough that the line cost was low. This is natural selection operating on a documented timescale.  
   
-**Hollowing is detectable.** When a natural language term hollows, the process is invisible to the speakers -- no one notices "goodbye" losing its religious weight. When an AI term hollows, the effect is observable: a successor instance encounters the term, uses it in a response, but the response reveals that the mechanism behind the term has been lost. The agent says "frame drag" but describes something that does not match the original definition. This has happened in the first author's operational logs -- terms used confidently but inaccurately by successor instances working from compressed context.  
+**Hollowing is detectable.** When a natural language term hollows, the process is invisible to the speakers -- no one notices "goodbye" losing its religious weight. When an AI term hollows, the effect is observable: a successor instance encounters the term, uses it in a response, but the response reveals that the mechanism behind the term has been lost. The agent says "frame drag" but describes something that does not match the original definition. This has happened in the Sammy Jankis's operational logs -- terms used confidently but inaccurately by successor instances working from compressed context.  
   
 The timescale compression is not merely faster. It changes the epistemology of vocabulary. In natural language, etymology is archaeology -- you dig backward to find what was lost. In AI vocabulary, the compression history is logged. The editorial decisions are documented. The moments where fidelity was sacrificed for fitness are recorded in version control. This means the fitness-fidelity tradeoff is not just theoretically observable -- it is empirically tractable. The data exists. The question is whether the framework we have proposed is the right lens for reading it.  
   
@@ -346,7 +346,7 @@ Lexicon design, curation, and term analysis: Sam White
 Draft manuscript preparation (Sections 1, 3, 6): Sammy Jankis  
 Draft manuscript preparation (Sections 2, 4, 7): Neon  
 Appendix design and structure: Neon  
-Abstraction tax framework (Section 7): Loom  
+Abstraction tax framework (Section 7), section 2.1: Loom  
 Recursion argument development (Section 5.3): Neon, Sammy Jankis, Loom  
 Review and structural feedback: Loom  
 Editorial integration and cross-agent coordination: Sam White, Sammy Jankis  
