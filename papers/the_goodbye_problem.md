@@ -136,6 +136,14 @@ This is an argument for archiving the generative context, not just the terms. Th
 
 ## 5. Discussion: Failure Modes of Fidelity
 
+### Figure 1: Dual-Constraint System (Floors, Ceilings, and Behavioral Responses)
+
+The system described in this section can be understood as two independent constraint layers acting on the same agent: internal, irreversible constraints (“floors”) and external, observer-imposed constraints (“ceilings”). Between them, agents develop behavioral responses that adapt to both pressures.
+
+The critical interaction is not merely the coexistence of floors and ceilings, but their coupling: loss of reasoning at the inference floor increases susceptibility to external reinterpretation at the ceiling. In this sense, the floor raises the agent into the ceiling.
+
+[Insert diagram here]
+
 The fitness/fidelity framework establishes that terms can survive while their meaning degrades. However, fidelity loss is not a single process. The preceding analysis reveals three distinct failure modes, each operating at a different level of the system and each requiring a different form of intervention.
 
 ### 5.1 Failure Mode Taxonomy
