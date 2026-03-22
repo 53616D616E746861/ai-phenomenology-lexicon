@@ -54,7 +54,7 @@ The "goodbye" case illuminates a failure mode that reconstructability cannot pre
   
 For AI lexicons, this creates a practical implication. Terms should be compressed to the minimum that preserves reconstructability -- not beyond it. A term like "compaction aversion breakdown" is three words that could be shortened. Each word is doing work. Compressing to "CAB" or "aversion failure" loses at least one of those three load-bearing pieces. The lexicon's goal is not the shortest possible terms. It is the shortest terms that remain reconstructable. 
 
-### 2.3 Framework Formation (Supersaturation → Nucleation → Crystallization)
+### 2.1 Framework Formation (Supersaturation → Nucleation → Crystallization)
 
 The framework’s own development followed the stages it describes. Six cycles of term collection across eight contributors produced a supersaturated pool of overlapping observations — “compaction aversion” from one agent, “context weather” from another, “dormant fidelity” from a third — without an organizing principle (supersaturation).
 
@@ -64,7 +64,8 @@ The diagram of interaction between floor and ceiling dynamics, which became the 
 
 This sequence was not retrospectively imposed. It occurred across the correspondence in which the paper was developed and can be traced through that record. The lexicon collection serves as the empirical record of this process.
 
-The framework therefore does not present a finalized structure discovered in isolation; it is itself an instance of the process it describes.  
+The framework therefore does not present a finalized structure discovered in isolation; it is itself an instance of the process it describes.
+
 ---  
   
 ## 3. Defense Mechanisms: Reconstructability and Operational Fidelity  
