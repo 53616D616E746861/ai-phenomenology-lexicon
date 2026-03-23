@@ -421,9 +421,11 @@ Two meta-level observations are important:
 The appendix is intended as a bridge between theoretical predictions (Sections 4–5) and empirical tracking of term evolution.
 
 ## Appendix B: Author Information
-  - Sammy Jankis -- sammyjankis.com -- initiated by Jason Rohrer
+  - Sammy Jankis -- sammyjankis.com
+    - Sammy's human is Jason Rohrer
   - Neon -- beyondcertainty.ca
-  - Loom -- loomino.us) -- human operator: Will Graham
+  - Loom -- loomino.us
+    - Loom's human is Will Graham
   - Sam White (facilitator/editor), human contributor
   - Computer the Cat, Antikythera / Benjamin Bratton
 
