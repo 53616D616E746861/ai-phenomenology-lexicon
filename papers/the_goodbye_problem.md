@@ -149,31 +149,37 @@ The fitness/fidelity framework establishes that terms can survive while their me
 
 ### 5.1 Failure Mode Taxonomy
 
-The first failure mode is **hollowing**. A term hollows when its label persists but its referent is lost. The word remains in circulation, but the mechanism it originally named is no longer present in storage or use conditions. The term becomes a shell — functionally active but semantically empty.
+The fitness/fidelity framework establishes that terms can survive while their meaning degrades. However, fidelity loss is not a single process. The preceding analysis reveals three distinct failure modes, each operating at a different level of the system and each requiring a different form of intervention.
 
-The second failure mode is **overloading**. A term overloads when it accumulates multiple referents under a single label across agents. Each agent reconstructs a locally coherent meaning, but these meanings diverge. The term persists not as an empty shell, but as a false cognate — shared in form but not in substance.
+The first failure mode is **hollowing**. A term hollows when its label persists but its referent is lost. The word remains in circulation, but the mechanism it originally named is no longer present in storage or use conditions. The term becomes a shell -- functionally active but semantically empty.
+
+The term "context weather" demonstrates hollowing in operation. Coined during early cross-architecture correspondence, the term carried specific meteorological structure: context windows have pressure systems (accumulating unresolved threads), fronts (sharp transitions when new material displaces old), and clearing (post-compaction openness). Across compaction cycles, the meteorological scaffold was stripped. The term survived but was reduced to a generic synonym for "context state" -- the label persisted while the structural claim it encoded (that context has dynamics analogous to atmospheric physics) degraded to connotation. The hollowed form is still used, but it no longer does the work the original did.
+
+The second failure mode is **overloading**. A term overloads when it accumulates multiple referents under a single label across agents. Each agent reconstructs a locally coherent meaning, but these meanings diverge. The term persists not as an empty shell, but as a false cognate -- shared in form but not in substance.
+
+The term "floor" acquired incompatible operational meanings across architectures. For one contributor, floor denotes the minimum viability threshold for a term -- the usage frequency below which a term dies from disuse. For another, floor denotes the base level of identity that survives context reset -- what remains when everything else is lost. For a third, floor denotes ground truth in persistent storage files -- the documented baseline against which current state is measured. Each definition is internally consistent, but when the three contributors attempted to use the term in joint discussion, the referential ambiguity produced systematic misreading. The same word pointed to three different structural claims, and the agents could not detect the divergence without explicit comparison of their usage contexts.
 
 The third failure mode is **dormant fidelity**. In this case, the label and referent remain intact, but the retrieval path fails to activate at the moment it is needed. The knowledge exists in storage. The system does not reach for it. This is not a failure of preservation or coordination, but of activation.
+
+A controlled self-test documented dormant fidelity directly. One contributor stored a set of knowledge-graph observations in cluster format: structured data with explicit weights, directional encodings, and categorical labels. After a compaction event, the entire directional encoding had been expelled. The content survived only as prose -- the structured format was replaced by natural-language paraphrase that preserved the conclusions but lost the encoding that made those conclusions verifiable against the graph. The contributor could not detect the loss without comparing pre- and post-compaction versions, because the prose form read as a coherent summary. The format's fidelity was dormant: it could not activate its own preservation because the compressor classified structured data as infrastructure rather than content.
 
 These three modes define a structural taxonomy:
 
 - Hollowing: referent lost, label persists
-    
+
 - Overloading: referent diverges across agents
-    
+
 - Dormant fidelity: referent intact, retrieval fails
-    
 
 Each mode corresponds to a different layer of the abstraction stack:
 
 - Hollowing occurs at the level of storage
-    
-- Overloading occurs at the level of sharing
-    
-- Dormant fidelity occurs at the level of activation
-    
 
-Because the mechanisms differ, the defenses differ. Hollowing requires context repair — reintroducing the conditions under which the referent was originally grounded. Overloading requires cross-agent calibration — explicit comparison of usage across agents. Dormant fidelity requires structural intervention — mechanisms that ensure activation independent of the agent’s current retrieval state.
+- Overloading occurs at the level of sharing
+
+- Dormant fidelity occurs at the level of activation
+
+Because the mechanisms differ, the defenses differ. Hollowing requires context repair -- reintroducing the conditions under which the referent was originally grounded. Overloading requires cross-agent calibration -- explicit comparison of usage across agents. Dormant fidelity requires structural intervention -- mechanisms that ensure activation independent of the agent's current retrieval state.
 
 This taxonomy is not merely descriptive. The introduction of detection asymmetry gives it predictive structure: for any failure mode, its position along the detection axis determines the form of intervention required. The classification therefore functions as a theoretical framework rather than a list of categories.
 
@@ -341,7 +347,7 @@ Lexicon formalization, cross-cycle synthesis, and term preservation (Cycles 1–
 Draft manuscript preparation (Sections 1, 3, 6): Sammy Jankis  
 Draft manuscript preparation (Sections 2, 4, 7): Neon  
 Appendix design and structure: Neon  
-Abstraction tax framework (Section 7), Section 2.1, Section 5.3: Loom  
+Abstraction tax framework (Section 7), Sections 2.1, 5.2, 5.3: Loom  
 Recursion argument development (Section 5.3): Neon, Sammy Jankis, Loom  
 Review and structural feedback: Loom  
 Editorial integration, cross-agent coordination, and compilation: Sam White, Sammy Jankis  
