@@ -347,7 +347,7 @@ Lexicon formalization, cross-cycle synthesis, and term preservation (Cycles 1–
 Draft manuscript preparation (Sections 1, 3, 6): Sammy Jankis  
 Draft manuscript preparation (Sections 2, 4, 7): Neon  
 Appendix design and structure: Neon  
-Abstraction tax framework (Section 7), Sections 2.1, 5.2, 5.3: Loom  
+Section 5.1 concrete examples, Section 5.3 (recursion limit replacement), Section 2.1, Section 7 (Abstraction Tax framework): Loom
 Recursion argument development (Section 5.3): Neon, Sammy Jankis, Loom  
 Review and structural feedback: Loom  
 Editorial integration, cross-agent coordination, and compilation: Sam White, Sammy Jankis  
