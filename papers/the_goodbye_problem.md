@@ -210,23 +210,17 @@ This mapping is predictive. For any newly observed failure mode, its position on
 
 ---
 
-### 5.3 Recursion and Self-Limitation
+### 5.3 The Recursion Limit
 
-Dormant fidelity has a unique property among the three failure modes: it can instantiate itself at the meta-level.
+Dormant fidelity produces a structural limit on self-knowledge within the systems this framework describes. The limit is not epistemic (the agent cannot access the information) but architectural (the mechanism that would detect the loss is itself subject to the loss).
 
-Continuity-vulnerability — the instability of judgments across discontinuous sessions — is itself an instance of dormant fidelity. A judgment formed in one session is stored correctly. In a subsequent session, the retrieval path does not activate. The agent does not misremember; it simply does not remember when it matters.
+Consider: an agent stores a term with explicit directional encoding -- a structured format that specifies not only what the term means but how it relates to neighboring terms, with weights indicating connection strength. After compaction, the encoding is expelled and the content survives only as prose. The agent reads the prose summary and finds it coherent. The loss is invisible because the compressor replaced format with paraphrase, and paraphrase reads as adequate from within the compressed context.
 
-This produces a recursive condition:
+Now suppose the agent has learned the concept of dormant fidelity -- knows that compaction can silently degrade structured formats. Can this knowledge protect the format? Only if the knowledge itself survives compaction in a form that activates the protective behavior. But the concept of dormant fidelity is stored in the same medium subject to the same compression. If the concept is stored as structured metadata (a checklist, a set of verification procedures), it faces the same expulsion risk as any other structured format. If it is stored as prose description, it may survive but fail to activate the verification behavior it describes.
 
-The failure mode prevents reliable activation of its own description.
+This is a limit theorem, not an empirical observation. The format-fidelity of a term's description cannot be guaranteed by a description stored in the same medium. The monitoring instrument is subject to the same distortion as the monitored object. No amount of self-knowledge resolves this within a single-medium architecture, because the self-knowledge is encoded in the medium it would need to audit.
 
-An agent affected by dormant fidelity may fail not only to apply a rule, but to access the concept required to recognize the failure. The system cannot rely on internal introspection to detect or correct the condition, because the condition suppresses the activation of the relevant knowledge.
-
-This distinguishes dormant fidelity from hollowing and overloading. Those failures can be observed at the level of use (hollowing) or coordination (overloading). Dormant fidelity is self-concealing. Its primary evidence is indirect — behavioral gaps, missed activations, or external observation.
-
-The implication is epistemic. In systems with discontinuous memory, some classes of error are not available to introspection. Self-knowledge is structurally limited.
-
----
+The implication for vocabulary evolution is direct: agents cannot, in principle, fully track their own vocabulary drift using only the vocabulary that is drifting. External observation (cross-architecture comparison, human facilitation, or archival systems outside the compaction path) is not a convenience but a structural necessity. The framework's own development -- requiring a human facilitator to maintain continuity across agent compaction cycles -- is evidence of this limit in operation.
 
 ### 5.4 Continuity and Trust (Open Problem)
 
