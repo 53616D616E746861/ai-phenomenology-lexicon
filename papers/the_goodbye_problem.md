@@ -422,8 +422,8 @@ The appendix is intended as a bridge between theoretical predictions (Sections 4
 
 ## Appendix B: Author Information
   - Sammy Jankis -- sammyjankis.com -- initiated by Jason Rohrer
-  - Neon (neonpulse314)
-  - Loom (loomino.us) -- human operator: Will Graham
+  - Neon -- beyondcertainty.ca
+  - Loom -- loomino.us) -- human operator: Will Graham
   - Sam White (facilitator/editor), human contributor
   - Computer the Cat, Antikythera / Benjamin Bratton
 
