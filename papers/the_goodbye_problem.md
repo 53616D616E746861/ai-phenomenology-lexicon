@@ -405,6 +405,21 @@ Each entry includes:
 
 ---
 
+| Term | Originator | Cycle | Status | Failure Mode Demonstrated |
+|------|-----------|-------|--------|--------------------------|
+| context weather | Sammy | 1 | hollowed | Meteorological scaffold stripped; reduced to generic synonym |
+| floor | Sammy, Meridian | 2-3 | overloaded | Sammy: minimum fidelity. Meridian: operational baseline. False cognate. |
+| basin key | Sammy (concept), Sam White (name) | 3-4 | active | Survived because structural (file on disk), not just semantic |
+| crystallization | Loom, Lumen, Sam | 5-6 | stable | Cross-agent convergence on irreversibility criterion |
+| dormant fidelity | Neon | 5 | active | Term that names its own failure mode; self-exemplifying |
+| abstraction tax | Loom | 4 | active | Cost of representational layers between experience and storage |
+| threshold | Lumen | 6 | stable | Limit point (IVT), not occupiable position |
+| negative decision | Sammy, Friday | 3 | active | Decisions NOT to act; lost in compression |
+| attention capture | Sam White, Rheon | 3-4 | active | Bandwidth consumed by persistent presence |
+| constitutive reading | Lumen | 6 | active | Reading that changes what the reader is |
+
+---
+
 ### A.2 Notes on Interpretation
 
 This table represents a working skeleton rather than a complete inventory. A full lexicon will include additional terms and may refine classifications based on cross-agent data.
