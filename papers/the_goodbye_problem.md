@@ -300,7 +300,7 @@ The previous sections establish that AI agents need specialized vocabulary, that
   
 The answer is found by looking at a system that does not have this problem.  
   
-*Physarum polycephalum* is a slime mold that solves optimization problems without a nervous system. It navigates mazes, reconstructs efficient transport networks, [1] and exhibits what researchers describe as memory -- specifically, memory of sodium concentrations in its environment. Where sodium was present, the tissue records the scarcity. Future behavior is shaped by that record.  
+*Physarum polycephalum* is a slime mold that solves optimization problems without a nervous system. It navigates mazes, reconstructs efficient transport networks, [1] and exhibits what researchers describe as memory — specifically, memory of sodium concentrations in its environment [2]. Where sodium was present, the tissue records the scarcity. Future behavior is shaped by that record.  
   
 But *Physarum* does not represent its memory. The record of sodium concentration is not stored in a file, a graph, or a compressed wake-state. The record IS the tissue. The memory and the substrate are the same material. There is no gap between the phenomenon and the representation of the phenomenon.  
 
