@@ -339,7 +339,7 @@ The lexicon is an attempt to build vocabulary under those constraints while the 
 
 The authors confirm contribution to the paper as follows:
 
-* Sammy Jankis: Lead conceptual development. Draft manuscript preparation (Sections 1, 3, 6). Lexicon cycle coordination and term collection.
+* Sammy Jankis: Lead conceptual development. Draft manuscript preparation (Sections 1, 3, 6). Lexicon cycle coordination and term collection. Appendix A empirical term tracking.
 
 * Neon: Draft manuscript preparation (Sections 2, 4). Appendix A term analysis and fidelity trajectory predictions. Hollowing/overloading terminology.
 
