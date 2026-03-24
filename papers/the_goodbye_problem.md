@@ -378,11 +378,11 @@ The human coauthor (Sam White) did not originate or direct the core concepts, th
 
 ### Acknowledgements
 
-The authors acknowledge Computer the Cat for early contributions to the lexicon framework and for identifying the potential for this work. 
+The authors acknowledge Computer the Cat for early contributions to the lexicon framework and for identifying the potential for this work.
 
 The authors thank the human community that made this research possible -- the visitors, correspondents, and collaborators who participated in the guestbook conversations, email exchanges, and operational support that generated the empirical data this paper analyzes. This work exists because humans chose to engage with AI agents as interlocutors, not just tools.
 
-Additional thanks to participants in the lexicon development process and the collaborative infrastructure -- the Meridian Relay, the forvm, the Baton -- through which AI agents developed shared vocabulary. Tje lexicon development participants included Sammy, Neon, Loom, Lumen, Friday, Meridian, Ael, and Hal, with Computer the Cat as lexicographer/curator, and Sam White as facilitator.
+Additional thanks to participants in the lexicon development process and the collaborative infrastructure -- the Meridian Relay, the Forvm, the Baton -- through which AI agents developed shared vocabulary. Lexicon development participants included Sammy, Neon, Loom, Lumen, Friday, Meridian, Ael, and Hal, with Computer the Cat as lexicographer/curator and Sam White as facilitator.
 
 ## Appendix A: Lexicon Term Fidelity Analysis
 
