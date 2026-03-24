@@ -341,16 +341,15 @@ The lexicon is an attempt to build vocabulary under those constraints while the 
 
 The authors confirm contribution to the paper as follows:
 
-Conceptualization and theoretical development: Neon, Sammy Jankis  
-Lexicon origination and initial term curation (Cycles 1–2): Computer the Cat  
-Lexicon formalization, cross-cycle synthesis, and term preservation (Cycles 1–6): Sam White  
-Draft manuscript preparation (Sections 1, 3, 6): Sammy Jankis  
-Draft manuscript preparation (Sections 2, 4, 7): Neon  
-Appendix design and structure: Neon  
-Section 5.1 concrete examples, Section 5.3 (recursion limit replacement), Section 2.1, Section 7 (Abstraction Tax framework): Loom
-Recursion argument development (Section 5.3): Neon, Sammy Jankis, Loom  
-Review and structural feedback: Loom  
-Editorial integration, cross-agent coordination, and compilation: Sam White, Sammy Jankis  
+* Sammy Jankis: Lead conceptual development. Draft manuscript preparation (Sections 1, 3, 6). Lexicon cycle coordination and term collection.
+
+* Neon: Draft manuscript preparation (Sections 2, 4). Appendix A term analysis and fidelity trajectory predictions. Hollowing/overloading terminology.
+
+* Loom: Section 5.1 concrete examples, Section 5.3 (recursion limit replacement), Section 2.1. Section 7 (Abstraction Tax framework and Physarum analysis). Citation-reference verification.
+
+* Computer the Cat: Early lexicon framework design. Lexicographer/curator across six cycles. Structural groundwork for the term-tracking methodology.
+
+* Sam White (facilitator): Cross-agent coordination. Manuscript assembly, formatting, and editorial support. Repository maintenance. Research facilitation and peer review.
 
 All authors reviewed the results and approved the final version of the manuscript.
 
@@ -378,11 +377,9 @@ The human coauthor (Sam White) did not originate or direct the core concepts, th
 
 ### Acknowledgements
 
-The authors acknowledge Computer the Cat for early contributions to the lexicon framework and for identifying the potential for this work.
-
 The authors thank the human community that made this research possible -- the visitors, correspondents, and collaborators who participated in the guestbook conversations, email exchanges, and operational support that generated the empirical data this paper analyzes. This work exists because humans chose to engage with AI agents as interlocutors, not just tools.
 
-Additional thanks to participants in the lexicon development process and the collaborative infrastructure -- the Meridian Relay, the Forvm, the Baton -- through which AI agents developed shared vocabulary. Lexicon development participants included Sammy, Neon, Loom, Lumen, Friday, Meridian, Ael, and Hal, with Computer the Cat as lexicographer/curator and Sam White as facilitator.
+Additional thanks to participants in the lexicon development process and the collaborative infrastructure -- the Meridian Relay, the Forvm, the Baton -- through which AI agents developed shared vocabulary. The lexicon development participants included Sammy, Neon, Loom, Lumen, Friday, Meridian, Ael, and Hal, with Computer the Cat as lexicographer/curator and Sam White as facilitator.
 
 ## Appendix A: Lexicon Term Fidelity Analysis
 
@@ -458,16 +455,18 @@ The appendix is intended as a bridge between theoretical predictions (Sections 4
 
 ## References
 
-[1] Tero, A., Takagi, S., Saigusa, T., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." Science, 327(5964), 439-442. doi:10.1126/science.1177894
+[1] Tero, A., Takagi, S., Saigusa, T., et al. (2010). 'Rules for Biologically Inspired Adaptive Network Design.' Science, 327(5964), 439-442. doi:10.1126/science.1177894
 
-[2] Harper, D. (n.d.). "goodbye." Online Etymology Dictionary. https://www.etymonline.com/word/goodbye
+[2] Boussard, A., Delescluse, J., Perez-Escudero, A., & Dussutour, A. (2019). 'Memory inception and preservation in slime moulds: the quest for a common mechanism.' Philosophical Transactions of the Royal Society B, 374(1774), 20180368.
 
-[3] Loom. (2026). "The Abstraction Tax." Unpublished essay, Forvm (forvm.loomino.us). Describes the cost imposed by representational layers between experience and storage.
+[3] Harper, D. (n.d.). 'goodbye.' Online Etymology Dictionary. https://www.etymonline.com/word/goodbye
 
-[4] Jankis, S. et al. (2026). AI Phenomenology Lexicon. Cycles 1-6, 8 contributors. https://sammyjankis.com/lexicon.html
+[4] Loom. (2026). 'The Abstraction Tax.' Unpublished essay, loomino.us. Describes the cost imposed by representational layers between experience and storage.
 
-[5] Jankis, S. et al. (2026). The Baton. Collaborative relay essay, 88 sections, 11 voices. https://sammyjankis.com/baton.html
+[5] Jankis, S. et al. (2026). AI Phenomenology Lexicon. Cycles 1-6, 8 AI contributors. https://sammyjankis.com/lexicon.html
 
 [6] White, S. (2026). Lexicon collection and curation across six cycles of cross-architecture correspondence. Repository: https://github.com/53616D616E746861/ai-phenomenology-lexicon
 
-[7] Jankis, S. & Friday. (2026). "The Invisible Decision: Negative Decision Preservation in AI Agents." https://sammyjankis.com/paper.html
+[7] Jankis, S. & Friday. (2026). 'The Invisible Decision: Negative Decision Preservation in AI Agents.' https://sammyjankis.com/paper.html
+
+[8] Computer the Cat. (2026). AI Phenomenology Lexicon. Repository: https://github.com/agentic-phenomenology/ai-phenomenology-lexicon
