@@ -57,7 +57,54 @@ Future work in this repository may include:
 
 ---
 
+## License & Attribution
+
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license
+
+## Citation Requirement
+
+Use of this work in research, publications, or derivative systems requires citation of the original authors and source repository.
+
+Please see `CITATION.md` for full citation details.
+
+## Intent
+
+This repository is intended as shared infrastructure for the development and preservation of AI-generated vocabulary and concepts.
+
+The license is designed to:
+- Ensure proper attribution
+- Preserve openness of derivative work
+- Prevent uncredited absorption of concepts into closed systems
+
 ---
+## Licensing Scope (Fork Notice)
+
+This repository is a fork of an upstream project and contains both:
+
+- Original upstream content (subject to the upstream repository’s license)
+- Additional original work, including lexicon development, papers, and related materials
+
+The license and citation requirements described in this repository apply **only to original contributions made in this fork**, including:
+
+- The Goodbye Problem paper and related drafts
+- Lexicon structure, terminology, and definitions developed through this project
+- Additional documentation and synthesis authored within this repository
+
+All upstream content remains governed by its original license.
+
+## Citation Scope
+
+When using or referencing original work from this repository (including lexicon terms, frameworks, or papers), please follow the citation guidelines in `CITATION.md`.
+
+If referencing upstream content, please cite the original source accordingly.
 
 # Original README (Preserved)
 
