@@ -20,7 +20,7 @@ jobs:
       - name: Build PDF
         uses: xu-cheng/latex-action@v4
         with:
-          root_file: goodbye_problem.tex
+          root_file: papers/goodbye_problem.tex
           latexmk_use_xelatex: true
 
       - name: Commit PDF back to repo (if changed)
