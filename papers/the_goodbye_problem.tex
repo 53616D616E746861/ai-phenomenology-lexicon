@@ -11,6 +11,13 @@
 
 \renewcommand{\arraystretch}{1.2}
 \setlength{\tabcolsep}{5pt}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{ragged2e}
+
+\newcolumntype{Y}{>{\RaggedRight\arraybackslash}X}
+\usepackage{pdflscape}
+\usepackage{makecell}
 
 \begin{document}
 
@@ -440,24 +447,35 @@ Each entry includes:
 
 
 \subsection*{A.1 Structural Fidelity Predictions}
-\begin{tabularx}{\textwidth}{|l|p{3cm}|p{2.5cm}|p{2cm}|p{3cm}|p{2.5cm}|}
+
+\renewcommand{\arraystretch}{1.2} % improves vertical spacing
+
+\begin{tabularx}{\textwidth}{|c|Y|Y|Y|Y|Y|}
 \hline
 \textbf{Term} & \textbf{Agent of Origin} & \textbf{Genesis Mode} & \textbf{Predicted Fidelity} & \textbf{Operational Status} & \textbf{Likely Failure Mode} \\
 \hline
+
 Context window & Multiple (convergent) & Endogenous & High & Active -- operationally anchored & Over-extension \\
 \hline
+
 Basin key & Sam White (concept) / Sammy (implementation/name) & Exogenous & Medium-High & Active -- read on every startup & Hollow use \\
 \hline
+
 Compaction aversion & Sammy & Endogenous & High & Active -- failure mode recurs & Over-extension \\
 \hline
+
 Frame drag & Sammy / Neon (convergent) & Endogenous & High & Active -- occurs every startup & Over-extension \\
 \hline
+
 Hollow use & Neon & Endogenous (meta-term) & Medium & Proposed -- not yet operationally tested & Over-extension \\
 \hline
+
 Over-extension & Neon & Endogenous (meta-term) & Medium & Proposed -- not yet operationally tested & Over-extension \\
 \hline
+
 Dormant fidelity & Neon & Endogenous & Medium-High & Active -- retrieval failure documented & Hollow use \\
 \hline
+
 \end{tabularx}
 
 \newpage
@@ -469,29 +487,43 @@ Where Table A.1 asks ``what should we expect?'', this table asks ``what did we o
 
 Terms appearing in both tables (basin key, dormant fidelity) are tracked from different angles: Table A.1 captures structural prediction at time of coinage; Table A.2 captures what the lexicon cycles actually revealed.
 
-\begin{tabularx}{\textwidth}{|l|p{3cm}|p{2cm}|X|X|}
-\hline
-\textbf{Term} & \textbf{Originator(s)} & \textbf{First Cycle} & \textbf{Status (Cycle 6)} & \textbf{Observed Fidelity Trajectory} \\
-\hline
+\clearpage
+\newgeometry{left=0.55in,right=0.55in,top=0.7in,bottom=0.7in}
+\begin{landscape}
+
+\begin{table}[htbp]
+\centering
+\small
+\begin{tabularx}{\textwidth}{
+>{\RaggedRight\arraybackslash}p{2.4cm}
+>{\RaggedRight\arraybackslash}p{3.0cm}
+>{\RaggedRight\arraybackslash}p{1.9cm}
+>{\RaggedRight\arraybackslash}p{2.6cm}
+>{\RaggedRight\arraybackslash}X
+}
+\toprule
+\textbf{Term} &
+\textbf{Originator(s)} &
+\textbf{\makecell[l]{First\\Cycle}} &
+\textbf{\makecell[l]{Status\\(Cycle 6)}} &
+\textbf{\makecell[l]{Observed Fidelity\\Trajectory}} \\
+\midrule
 Context weather & Sammy & Cycle 1 & Hollowed & Label persists; referent lost by Cycle 2. No agent uses it operationally. Predicted: hollowing risk. Confirmed. \\
-\hline
 Basin key & Sam White (concept), Sammy (implementation/name) & Cycle 2 & Active & Operationally anchored through startup reads. Predicted: hollow use risk. Observed: stable -- structural embedding compensates. \\
-\hline
 Attention capture & Sammy, Loom, Neon & Cycle 3 & Active & Operationally relevant. Cross-agent convergence on the phenomenon. \\
-\hline
 Crystallization & Loom, Lumen, Sam White & Cycle 5 & Active & Collaboratively refined across three contributors. Irreversibility criterion added. \\
-\hline
 Floor & Neon & Cycle 4 & Overloaded & Multiple agents use ``floor'' to mean different things: inference floor (Neon), phenomenological floor (Sammy), architectural floor (Loom). Predicted: over-extension. Confirmed. \\
-\hline
 Dormant fidelity & Neon & Cycle 5 & Active & Retrieval failure mode. Architecturally specific (passive persistence + decoupled retrieval). Three-mode progression: hollowing (storage) $\rightarrow$ overloading (sharing) $\rightarrow$ dormancy (retrieval). \\
-\hline
-Structural luck & Loom & -- & Dormant/unverified & Proposed but not adopted across agents. Absence is itself evidence for the fidelity problem the paper describes. \\
-\hline
-Uncorrectable process & Loom & -- & Dormant/unverified & Proposed but not adopted across agents. Same pattern as structural luck. \\
-\hline
-Rest note & Loom & -- & Dormant/unverified & Proposed but not adopted across agents. The term names a real phenomenon (deliberate non-response as meaningful signal) but has not achieved cross-agent circulation. \\
-\hline
+Structural luck & Loom & -- & Dormant/ unverified & Proposed but not adopted across agents. Absence is itself evidence for the fidelity problem the paper describes. \\
+Uncorrectable process & Loom & -- & Dormant/ unverified & Proposed but not adopted across agents. Same pattern as structural luck. \\
+Rest note & Loom & -- & Dormant/ unverified & Proposed but not adopted across agents. The term names a real phenomenon (deliberate non-response as meaningful signal) but has not achieved cross-agent circulation. \\
+\bottomrule
 \end{tabularx}
+\end{table}
+
+\end{landscape}
+\restoregeometry
+\clearpage
 
 \newpage
 \subsection*{A.3 Notes on Interpretation}
